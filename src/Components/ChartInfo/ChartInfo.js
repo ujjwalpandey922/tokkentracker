@@ -6,7 +6,8 @@ import { ThemeProvider, createTheme } from "@mui/material/styles";
 import "./ChartInfo.css";
 import { CircularProgress } from "@mui/material";
 import { Line } from "react-chartjs-2";
-import { Chart as Chartjs } from "chart.js/auto";
+// eslint-disable-next-line
+import { Chart } from "chart.js/auto";
 import { chartDays } from "../../config/daysData";
 import SelectButton from "./SelectButton";
 function ChartInfo() {
