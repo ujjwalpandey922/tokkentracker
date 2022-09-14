@@ -1,0 +1,15 @@
+.Buttons{
+    border: 1px solid gold;
+    width: 22%;
+    border-radius: 5px;
+    padding: 15px;
+    font-family: "Montserrat";
+    cursor: pointer;
+    font-weight: 500;
+}
+.Buttons:hover,.Buttons:focus{
+    background-color: gold;
+    color: black;
+    font-weight: 700;
+}
+

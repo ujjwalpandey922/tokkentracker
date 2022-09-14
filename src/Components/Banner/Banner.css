@@ -1,0 +1,18 @@
+.bannerImg{
+    background-image: url("./Banner.jpg");
+   
+}
+.bannerContainer{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 25;
+}
+.tagline{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+}

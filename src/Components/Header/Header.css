@@ -1,0 +1,7 @@
+.headerName{
+    flex: 1;
+    color: gold;
+    font-family: "Montserrat";
+    cursor: pointer;
+    font-weight: "bold";
+}

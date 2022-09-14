@@ -1,0 +1,9 @@
+.Row{
+   cursor: pointer;
+   background-color: rgba(57, 56, 38, 0.322);
+   font-family: "Montserrat";
+  
+}
+.Row:hover{
+    background-color: black;
+}
